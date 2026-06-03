@@ -1,0 +1,14 @@
+C:\Users\Иван\source\repos\compiler\compiler\bin\Debug\net10.0\compiler.exe
+C:\Users\Иван\source\repos\compiler\compiler\bin\Debug\net10.0\compiler.deps.json
+C:\Users\Иван\source\repos\compiler\compiler\bin\Debug\net10.0\compiler.runtimeconfig.json
+C:\Users\Иван\source\repos\compiler\compiler\bin\Debug\net10.0\compiler.dll
+C:\Users\Иван\source\repos\compiler\compiler\bin\Debug\net10.0\compiler.pdb
+C:\Users\Иван\source\repos\compiler\compiler\obj\Debug\net10.0\compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\source\repos\compiler\compiler\obj\Debug\net10.0\compiler.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\compiler\compiler\obj\Debug\net10.0\compiler.AssemblyInfo.cs
+C:\Users\Иван\source\repos\compiler\compiler\obj\Debug\net10.0\compiler.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\compiler\compiler\obj\Debug\net10.0\compiler.dll
+C:\Users\Иван\source\repos\compiler\compiler\obj\Debug\net10.0\refint\compiler.dll
+C:\Users\Иван\source\repos\compiler\compiler\obj\Debug\net10.0\compiler.pdb
+C:\Users\Иван\source\repos\compiler\compiler\obj\Debug\net10.0\compiler.genruntimeconfig.cache
+C:\Users\Иван\source\repos\compiler\compiler\obj\Debug\net10.0\ref\compiler.dll
